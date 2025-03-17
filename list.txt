@@ -1,6 +1,7 @@
 äpfel
 birnen
 orangen
+kiwi
 bier
 leberkäse
 chips
@@ -8,3 +9,4 @@ wurst
 käse 
 cola
 fanta
+red bull
